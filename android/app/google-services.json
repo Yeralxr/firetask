@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102415804404",
+    "project_id": "fir-14ac1",
+    "storage_bucket": "fir-14ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102415804404:android:1e281d55fdb7f7cebebba1",
+        "android_client_info": {
+          "package_name": "com.livecode.firetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102415804404-3gtls59bhd7sdfq0nb36i54fl82rjk5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyj_fGWziAyMUNoTgaF17bhlhJyhdkv78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102415804404-3gtls59bhd7sdfq0nb36i54fl82rjk5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
